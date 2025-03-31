@@ -6,5 +6,3 @@ commit
 Add Line
 
 new branch line
-
-new branch line
